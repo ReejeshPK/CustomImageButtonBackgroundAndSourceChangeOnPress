@@ -8,7 +8,21 @@ _Normal State vs Button Pressed State_
 
 Steps to try:
 
-1. Add the implementation
+1. Add the maven url to your Project Level Gradle File build.gradle(Project:).
+```gradle
+allprojects {
+ repositories {
+	...
+	maven { url 'https://jitpack.io' }
+ }
+}
+```
+
+1.1. Add the implementation to your App Level Gradle File build.gradle(app:) :
+
+```gradle 
+implementation 'com.github.ReejeshPK:CustomImageButtonBackgroundAndSourceChangeOnPress:1.0'
+```
 
 2. Use the ImageButtonView
 
