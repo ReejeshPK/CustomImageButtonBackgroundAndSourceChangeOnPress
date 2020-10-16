@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyImageButton">
+        <attr name="normalBackground" format="reference"/>
+        <attr name="normalSrc" format="reference"/>
+        <attr name="pressedBackground" format="reference"/>
+        <attr name="pressedSrc" format="reference"/>
+    </declare-styleable>
+</resources>
