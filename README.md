@@ -1,4 +1,4 @@
-# **Custom ImageButton Background And Source Change OnPress**
+# **Custom ImageButton - Background And Source Change On Button Press**
 If you need to change both the background and the Image source (srcCompat or src) at the same time during button press, this will help.
 
 _Normal State vs Button Pressed State_
