@@ -1,18 +1,19 @@
 # **Custom ImageButton - Background And Source Change On Button Press**
 If you need to change both the background and the Image source (srcCompat or src) at the same time during button press, this will help.
 
-Credits:
-I built this from references from Stack Overflow from these developers and links:
-https://stackoverflow.com/users/824739/muffinmad
+**Credits:**
 
-https://stackoverflow.com/a/8518217/7710739
+* _I built this from references from Stack Overflow from these developers and links:_
+* _https://stackoverflow.com/users/824739/muffinmad_
 
-Defining Custom Attributes:
-https://stackoverflow.com/questions/3441396/defining-custom-attrs
+* _https://stackoverflow.com/a/8518217/7710739_
 
-For Publishing Reference :
-How to create your own Android Library and publish it - Anuj Gupta
-https://medium.com/@anujguptawork/how-to-create-your-own-android-library-and-publish-it-750e0f7481bf
+* _Defining Custom Attributes:_
+* _https://stackoverflow.com/questions/3441396/defining-custom-attrs_
+
+* _For Publishing Reference :_
+* _How to create your own Android Library and publish it - Anuj Gupta_
+* _https://medium.com/@anujguptawork/how-to-create-your-own-android-library-and-publish-it-750e0f7481bf_
 
 _Normal State vs Button Pressed State_
 
